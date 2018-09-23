@@ -1,0 +1,72 @@
+
+.Water {
+    background-color: #6CB7F1;
+}
+
+.Grass {
+    background-color: #90D863;
+}
+
+.Fire {
+    background-color: #EE7969;
+}
+
+.Flying {
+    background-color: #932093;
+}
+
+.Poison {
+    background-color: #A95F9D;
+}
+
+.Normal {
+    background-color: #ecf2ba;
+}
+
+.Bug {
+    background-color: #686423;
+}
+
+.Electric {
+    background-color: #f7ed3b;
+}
+
+.Ground {
+    background-color: #a22a2a;
+}
+
+.Fighting {
+    background-color: #6269a2;
+}
+
+.Psychic {
+    background-color: #4ba29e;
+}
+
+.Rock {
+    background-color: #115618;
+}
+
+.Ice {
+    background-color: #0caee6;
+}
+
+.Ghost {
+    background-color: #150505;
+}
+
+.Dragon {
+    background-color: #a2310b;
+}
+
+.badge-text {
+    color: white;
+    margin: 0 5px;
+}
+
+.card-title {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
